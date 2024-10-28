@@ -1,5 +1,5 @@
 package Abstraction;
-
+//for github
 abstract public class Account {
 	 String accountNumber;
 	 double balance;
