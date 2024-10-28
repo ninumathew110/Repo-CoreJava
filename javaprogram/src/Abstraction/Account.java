@@ -1,9 +1,7 @@
 package Abstraction;
-<<<<<<< HEAD
-//for github
-=======
 
->>>>>>> branch 'master' of https://github.com/ninumathew110/Repo1.git
+
+branch 'master' of https://github.com/ninumathew110/Repo1.git
 abstract public class Account {
 	 String accountNumber;
 	 double balance;
@@ -23,5 +21,5 @@ abstract public class Account {
 		System.out.println("Account Number="+accountNumber);
 		System.out.println("Balance="+balance);
 	}
-
+//githubmsg
 }
